@@ -1,6 +1,6 @@
-# Friday Night Funkin' - Psych Engine v1.0.4 Template
+# Friday Night Funkin' - Solar Engine
 
-This Template for Making any Mods and Engines you want, with Mobile Support.
+This Engine Compain Alot Of Other Engines Features Into one Engine.
 
 ![special](docs/img/special.png)
 
